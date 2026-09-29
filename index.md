@@ -17,9 +17,12 @@ Entry-level IT support, cybersecurity, and AV/IT professional based in the Washi
 2. [DNS and IP troubleshooting](case-studies/02-dns-ip-troubleshooting)
 3. [New-hire laptop provisioning](case-studies/03-hardware-provisioning)
 
+### Cybersecurity (synthetic)
+
+- [Vulnerability assessment](projects/vulnerability-assessment)
+
 ### Coming next
 
-- Vulnerability assessment (synthetic data)
 - Python log parser (synthetic test data)
 - Dante/AoIP network design (conceptual)
 
