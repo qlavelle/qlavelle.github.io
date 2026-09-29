@@ -20,7 +20,7 @@ Entry-level IT support, cybersecurity, and AV/IT professional based in the Washi
 ### Cybersecurity (synthetic)
 
 - [Vulnerability assessment](projects/vulnerability-assessment)
-- [Python log parser (synthetic data)](projects/log-parser/README)
+- [Python log parser (synthetic data)](projects/log-parser/)
 
 ### Coming next
 
