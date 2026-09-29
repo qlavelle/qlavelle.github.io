@@ -20,10 +20,10 @@ Entry-level IT support, cybersecurity, and AV/IT professional based in the Washi
 ### Cybersecurity (synthetic)
 
 - [Vulnerability assessment](projects/vulnerability-assessment)
+- [Python log parser (synthetic data)](projects/log-parser/README)
 
 ### Coming next
 
-- Python log parser (synthetic test data)
 - Dante/AoIP network design (conceptual)
 
 ## How to read this portfolio
