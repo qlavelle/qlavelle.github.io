@@ -1,0 +1,14 @@
+# SYNTHETIC TEST DATA - invented for practice. Not from any real system.
+2026-01-12 08:41:02 FAILED_LOGIN user=jsample src=192.0.2.44
+2026-01-12 08:41:19 FAILED_LOGIN user=jsample src=192.0.2.44
+2026-01-12 08:41:33 FAILED_LOGIN user=jsample src=192.0.2.44
+2026-01-12 08:41:34 ACCOUNT_LOCKED user=jsample src=192.0.2.44
+2026-01-12 09:02:10 SUCCESS_LOGIN user=rexample src=192.0.2.51
+2026-01-12 09:15:45 FAILED_LOGIN user=admin src=198.51.100.7
+2026-01-12 09:15:47 FAILED_LOGIN user=root src=198.51.100.7
+2026-01-12 09:15:49 FAILED_LOGIN user=guest src=198.51.100.7
+2026-01-12 09:15:51 FAILED_LOGIN user=admin src=198.51.100.7
+2026-01-12 09:15:53 FAILED_LOGIN user=test src=198.51.100.7
+2026-01-12 10:30:00 SUCCESS_LOGIN user=jsample src=192.0.2.44
+this line is malformed
+2026-01-12 11:00:00 FAILED_LOGIN user=rexample src=192.0.2.51
