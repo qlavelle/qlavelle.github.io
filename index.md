@@ -11,10 +11,17 @@ Entry-level IT support, cybersecurity, and AV/IT professional based in the Washi
 
 ## Portfolio (in progress)
 
-1. IT support case studies (simulated)
-2. Vulnerability assessment (synthetic data)
-3. Python log parser (synthetic test data)
-4. Dante/AoIP network design (conceptual)
+### IT support case studies (all simulated)
+
+1. [Account lockout and password reset](case-studies/01-account-unlock)
+2. [DNS and IP troubleshooting](case-studies/02-dns-ip-troubleshooting)
+3. [New-hire laptop provisioning](case-studies/03-hardware-provisioning)
+
+### Coming next
+
+- Vulnerability assessment (synthetic data)
+- Python log parser (synthetic test data)
+- Dante/AoIP network design (conceptual)
 
 ## How to read this portfolio
 
