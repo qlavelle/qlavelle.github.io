@@ -22,9 +22,9 @@ Entry-level IT support, cybersecurity, and AV/IT professional based in the Washi
 - [Vulnerability assessment](projects/vulnerability-assessment)
 - [Python log parser (synthetic data)](projects/log-parser/)
 
-### Coming next
+### AV/IT convergence (conceptual)
 
-- Dante/AoIP network design (conceptual)
+- [Dante/AoIP network design (not deployed)](projects/dante-aoip-design)
 
 ## How to read this portfolio
 
