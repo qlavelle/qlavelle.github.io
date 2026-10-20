@@ -32,6 +32,5 @@ Projects here are learning exercises. Tickets, logs, scan results, and case stud
 
 ## Contact
 
-- GitHub: [github.com/qlavelle](https://github.com/qlavelle)
 - LinkedIn: https://www.linkedin.com/in/quincyl/
 - Email: quincylavelle@gmail.com
