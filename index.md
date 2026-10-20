@@ -7,7 +7,7 @@ Entry-level IT support, cybersecurity, and AV/IT professional based in the Washi
 - B.S. in audio engineering / audio production, Full Sail University
 - CompTIA Security+
 - IT customer support contract experience
-- Building hands-on skills in troubleshooting, vulnerability assessment, Python scripting, and audio-over-IP networking
+- Technical hands-on skills in troubleshooting, vulnerability assessment, Python scripting, and audio-over-IP networking
 
 ## Portfolio (in progress)
 
